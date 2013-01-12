@@ -9,7 +9,7 @@ mkdir -p $1
 mv $SCREENSHOT $1/
 
 # Upload the screenshot with cloudapp
-URL=$(cloudapp upload $1/$SCREENSHOT)
+URL=$(cloudapp upload -d $1/$SCREENSHOT)
 
 # Send a notification to indicate completion
 notify-send -a cloudapp CloudApp $URL
