@@ -9,6 +9,14 @@ behavior.
 2.  `cloudapp` -- uploads to cloudapp
 3.  `notify-send` -- notifies the user
 
+## Usage
+
+One argument, a destination directory, is required.
+
+```bash
+cloudunapp ~/Pictures/Screenshots/CloudApp
+```
+
 ##### License
 
 I arbitrarily choose MIT. See
