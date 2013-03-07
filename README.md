@@ -19,5 +19,5 @@ cloudunapp ~/Pictures/Screenshots/CloudApp
 
 ##### License
 
-I arbitrarily choose MIT. See
+I arbitrarily chose MIT. See
 [LICENSE.md](https://github.com/RyanMcG/CloudUnApp/blob/master/LICENSE.md).
